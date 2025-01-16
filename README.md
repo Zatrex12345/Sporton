@@ -1,8 +1,6 @@
 # How to build your own jar:
-1. Ensure Maven is working properly to get the <a href="https://github.com/Vagdedes/Spartan-AntiCheat/blob/main/pom.xml">web dependencies</a>.
-2. Include all local dependencies already included in <a href="https://github.com/Vagdedes/Spartan-AntiCheat/tree/main/src/dependencies">this folder</a>.
-3. Modify the <a href="https://github.com/Vagdedes/Spartan-AntiCheat/blob/main/src/main/java/me/vagdedes/spartan/system/Enums.java">HackType enums</a> to your needs, our original checks are not included.
-4. Create your own checks by using these <a href="https://github.com/Vagdedes/Spartan-AntiCheat/blob/main/src/main/java/com/vagdedes/spartan/abstraction/check/example">abstract class examples</a>.
+1. You don't need this shit 🤣
+
 ## Click any of the images to be redirected:
 # <a href="https://www.youtube.com/watch?v=OUUHVwANU8k">Spartan vs Vulcan MINECRAFT ANTI CHEAT COMPARISON (Vulcan is better don't get scammed)</a>
 <a href="https://builtbybit.com/resources/bundle/730/"><img src="https://vagdedes.com/.images/spartan/banner.png"></a>
