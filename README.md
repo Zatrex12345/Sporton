@@ -1,5 +1,5 @@
 # How to build your own jar:
-1. You don't need this shit 🤣
+1. You don't need this shit 🤣 it's very bad
 
 ## Click any of the images to be redirected:
 # <a href="https://www.youtube.com/watch?v=OUUHVwANU8k">Spartan vs Vulcan MINECRAFT ANTI CHEAT COMPARISON (Vulcan is better don't get scammed)</a>
@@ -24,3 +24,8 @@
 <a href="https://namemc.com/server/minecraft.vagdedes.com"><img src="https://vagdedes.com/.images/spartan/test_alternative.png"></a>
 
 <a href="https://bit.ly/3WWD7RD"><img src="https://vagdedes.com/.images/spartan/developers.png"></a>
+
+# Scam proof??????
+- Getting bad checks
+- Paying for every check
+- The developer will ban you if you say that the anticheat is bad
